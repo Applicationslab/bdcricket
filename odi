@@ -1,142 +1,141 @@
 [{
-		"testMatch": "44",
-		"testPoint": "5,405",
 		"testPosition": "1",
-		"testRatting": "123",
-		"testTeam": "England"
+		"testTeam": "New Zealand",
+		"testMatch": "17",
+		"testPoint": "2,054",
+		"testRatting": "121"
 	},
 	{
-		"testMatch": "52",
-		"testPoint": "6,102",
 		"testPosition": "2",
-		"testRatting": "117",
-		"testTeam": "India"
-	},
-	{
+		"testTeam": "England",
 		"testMatch": "32",
-		"testPoint": "3,716",
+		"testPoint": "3,793",
+		"testRatting": "119"
+	},
+	{
 		"testPosition": "3",
-		"testRatting": "116",
-		"testTeam": "New Zealand"
-	},
-	{
-		"testMatch": "39",
-		"testPoint": "4,344",
-		"testPosition": "4",
-		"testRatting": "111",
-		"testTeam": "Australia"
-	},
-	{
-		"testMatch": "31",
-		"testPoint": "3,345",
-		"testPosition": "5",
-		"testRatting": "108",
-		"testTeam": "South Africa"
-	},
-	{
-		"testMatch": "35",
-		"testPoint": "3,490",
-		"testPosition": "6",
-		"testRatting": "100",
-		"testTeam": "Pakistan"
-	},
-	{
-		"testMatch": "37",
-		"testPoint": "3,366",
-		"testPosition": "7",
-		"testRatting": "91",
-		"testTeam": "Bangladesh"
-	},
-	{
-		"testMatch": "39",
-		"testPoint": "3,297",
-		"testPosition": "8",
-		"testRatting": "85",
-		"testTeam": "Sri Lanka"
-	},
-	{
-		"testMatch": "46",
-		"testPoint": "3,402",
-		"testPosition": "9",
-		"testRatting": "74",
-		"testTeam": "West Indies"
-	},
-	{
+		"testTeam": "Australia",
 		"testMatch": "28",
-		"testPoint": "1,549",
-		"testPosition": "10",
-		"testRatting": "55",
-		"testTeam": "Afghanistan"
+		"testPoint": "3,244",
+		"testRatting": "116"
 	},
 	{
-		"testMatch": "24",
-		"testPoint": "1,256",
-		"testPosition": "11",
-		"testRatting": "52",
-		"testTeam": "Ireland"
+		"testPosition": "4",
+		"testTeam": "India",
+		"testMatch": "32",
+		"testPoint": "3,624",
+		"testRatting": "113"
 	},
 	{
-		"testMatch": "5",
-		"testPoint": "222",
-		"testPosition": "12",
-		"testRatting": "44",
-		"testTeam": "Netherlands"
+		"testPosition": "5",
+		"testTeam": "South Africa",
+		"testMatch": "23",
+		"testPoint": "2,296",
+		"testRatting": "100"
 	},
 	{
+		"testPosition": "6",
+		"testTeam": "Pakistan",
 		"testMatch": "27",
-		"testPoint": "1,121",
+		"testPoint": "2,524",
+		"testRatting": "93"
+	},
+	{
+		"testPosition": "7",
+		"testTeam": "Bangladesh",
+		"testMatch": "29",
+		"testPoint": "2,639",
+		"testRatting": "91"
+	},
+	{
+		"testPosition": "8",
+		"testTeam": "West Indies",
+		"testMatch": "30",
+		"testPoint": "2,523",
+		"testRatting": "84"
+	},
+	{
+		"testPosition": "9",
+		"testTeam": "Sri Lanka",
+		"testMatch": "30",
+		"testPoint": "2,456",
+		"testRatting": "82"
+	},
+	{
+		"testPosition": "10",
+		"testTeam": "Afghanistan",
+		"testMatch": "17",
+		"testPoint": "1,054",
+		"testRatting": "62"
+	},
+	{
+		"testPosition": "11",
+		"testTeam": "Netherlands",
+		"testMatch": "7",
+		"testPoint": "336",
+		"testRatting": "48"
+	},
+	{
+		"testPosition": "12",
+		"testTeam": "Ireland",
+		"testMatch": "23",
+		"testPoint": "1,067",
+		"testRatting": "46"
+	},
+	{
 		"testPosition": "13",
-		"testRatting": "42",
-		"testTeam": "Zimbabwe"
+		"testTeam": "Zimbabwe",
+		"testMatch": "17",
+		"testPoint": "646",
+		"testRatting": "38"
 	},
 	{
-		"testMatch": "12",
-		"testPoint": "479",
 		"testPosition": "14",
-		"testRatting": "40",
-		"testTeam": "Oman"
+		"testTeam": "Scotland",
+		"testMatch": "7",
+		"testPoint": "258",
+		"testRatting": "37"
 	},
 	{
-		"testMatch": "16",
-		"testPoint": "419",
 		"testPosition": "15",
-		"testRatting": "26",
-		"testTeam": "Scotland"
+		"testTeam": "Oman",
+		"testMatch": "7",
+		"testPoint": "240",
+		"testRatting": "34"
 	},
 	{
-		"testMatch": "9",
-		"testPoint": "161",
 		"testPosition": "16",
-		"testRatting": "18",
-		"testTeam": "Nepal"
+		"testTeam": "Nepal",
+		"testMatch": "5",
+		"testPoint": "119",
+		"testRatting": "24"
 	},
 	{
-		"testMatch": "15",
-		"testPoint": "259",
 		"testPosition": "17",
-		"testRatting": "17",
-		"testTeam": "UAE"
-	},
-	{
+		"testTeam": "UAE",
 		"testMatch": "9",
-		"testPoint": "152",
+		"testPoint": "190",
+		"testRatting": "21"
+	},
+	{
 		"testPosition": "18",
-		"testRatting": "17",
-		"testTeam": "Namibia"
+		"testTeam": "Namibia",
+		"testMatch": "6",
+		"testPoint": "97",
+		"testRatting": "16"
 	},
 	{
-		"testMatch": "14",
-		"testPoint": "185",
 		"testPosition": "19",
-		"testRatting": "13",
-		"testTeam": "United States"
+		"testTeam": "United States",
+		"testMatch": "8",
+		"testPoint": "93",
+		"testRatting": "12"
 	},
 	{
-		"testMatch": "14",
-		"testPoint": "0",
 		"testPosition": "20",
-		"testRatting": "0",
-		"testTeam": "PNG"
-
+		"testTeam": "Papua New Guinea",
+		"testMatch": "5",
+		"testPoint": "0",
+		"testRatting": "0"
 	}
 ]
