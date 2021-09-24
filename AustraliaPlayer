@@ -1,0 +1,86 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152405/moises-henriques.jpg",
+		"playerName": "Moises Henriques",
+		"playerRatting": "ALL ROUNDER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c191412/mitchell-marsh.jpg",
+		"playerName": "Mitchell Marsh",
+		"playerRatting": "All-rounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152411/ashton-turner.jpg",
+		"playerName": "Ashton Turner",
+		"playerRatting": "All-rounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155995/ashton-agar.jpg",
+		"playerName": "Ashton Agar",
+		"playerRatting": "All-rounder"
+	},
+	{
+		"playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCIvnzhjfTpRbs3Rzjj2cs4jzc7i7YIOKP0n6i8QBJxSQwEh_JuFyT9FTq8BgfejRkY3I&usqp=CAU",
+		"playerName": "Daniel Christian",
+		"playerRatting": "All-rounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170667/alex-carey.jpg",
+		"playerName": "Alex Carey",
+		"playerRatting": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156074/ben-mcdermott.jpg",
+		"playerName": "Ben McDermott",
+		"playerRatting": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://storage.googleapis.com/cricketimages/Players/1D7.png",
+		"playerName": "Josh Philippe",
+		"playerRatting": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156205/matthew-wade.jpg",
+		"playerName": "Matthew Wade",
+		"playerRatting": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156093/wes-agar.jpg",
+		"playerName": "Wes Agar",
+		"playerRatting": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170647/jason-behrendorff.jpg",
+		"playerName": "Jason Behrendorff",
+		"playerRatting": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c151583/josh-hazlewood.jpg",
+		"playerName": "Josh Hazlewood",
+		"playerRatting": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155663/riley-meredith.jpg",
+		"playerName": "Riley Meredith",
+		"playerRatting": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170643/mitchell-starc.jpg",
+		"playerName": "Mitchell Starc",
+		"playerRatting": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156052/mitchell-swepson.jpg",
+		"playerName": "Mitchell Swepson",
+		"playerRatting": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156051/andrew-tye.jpg",
+		"playerName": "Andrew Tye",
+		"playerRatting": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170654/adam-zampa.jpg",
+		"playerName": "Adam Zampa",
+		"playerRatting": "Bowler"
+	}
+]
