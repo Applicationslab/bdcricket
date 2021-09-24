@@ -1,0 +1,76 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170790/darren-bravo.jpg",
+		"playerName": "Darren Bravo",
+		"playerRatting": "BATSMEN"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170801/chris-gayle.jpg",
+		"playerName": "Chris Gayle",
+		"playerRatting": "BATSMEN"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170785/evin-lewis.jpg",
+		"playerName": "Evin Lewis",
+		"playerRatting": "BATSMEN"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171232/shimron-hetmyer.jpg",
+		"playerName": "Shimron Hetmyer",
+		"playerRatting": "BATSMEN"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170794/fabian-allen.jpg",
+		"playerName": "Fabian Allen",
+		"playerRatting": "ALL ROUNDER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170806/jason-holder.jpg",
+		"playerName": "Jason Holder",
+		"playerRatting": "ALL ROUNDER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170821/andre-russell.jpg",
+		"playerName": "Andre Russell",
+		"playerRatting": "ALL ROUNDER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170798/carlos-brathwaite.jpg",
+		"playerName": "Carlos Brathwaite",
+		"playerRatting": "ALL ROUNDER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170814/shai-hope.jpg",
+		"playerName": "Shai Hope",
+		"playerRatting": "WICKET KEEPER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170810/nicholas-pooran.jpg",
+		"playerName": "Nicholas Pooran",
+		"playerRatting": "WICKET KEEPER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170828/sheldon-cottrell.jpg",
+		"playerName": "Sheldon Cottrell",
+		"playerRatting": "BOWLER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170826/shannon-gabriel.jpg",
+		"playerName": "Shannon Gabriel",
+		"playerRatting": "BOWLER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170820/kemar-roach.jpg",
+		"playerName": "Kemar Roach",
+		"playerRatting": "BOWLER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170817/ashley-nurse.jpg",
+		"playerName": "Ashley Nurse",
+		"playerRatting": "BOWLER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170824/oshane-thomas.jpg",
+		"playerName": "Oshane Thomas",
+		"playerRatting": "BOWLER"
+	}
+]
