@@ -1,0 +1,61 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170731/martin-guptill.jpg",
+		"playerName": "Martin Guptill",
+		"playerRatting": "BATSMEN"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c153409/mark-chapman.jpg",
+		"playerName": "Mark Chapman",
+		"playerRatting": "ALL ROUNDER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154598/will-young.jpg",
+		"playerName": "Will Young",
+		"playerRatting": "ALL ROUNDER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154932/todd-astle.jpg",
+		"playerName": "Todd Astle",
+		"playerRatting": "ALL ROUNDER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c185494/daryl-mitchell.jpg",
+		"playerName": "Daryl Mitchell",
+		"playerRatting": "ALL ROUNDER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154585/finn-allen.jpg",
+		"playerName": "Finn Allen",
+		"playerRatting": "WICKET KEEPER"
+	},
+	{
+		"playerImage": "http://s3.amazonaws.com/batsman/D%20P%20Conway_f2058d3d-80f4-41ab-aa54-f06645a105ef.JPG",
+		"playerName": "Devon Conway (Keeper)",
+		"playerRatting": "WICKET KEEPER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154514/glenn-phillips.jpg",
+		"playerName": "Glenn Phillips",
+		"playerRatting": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170753/tim-southee.jpg",
+		"playerName": "Tim Southee (C)",
+		"playerRatting": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170749/lockie-ferguson.jpg",
+		"playerName": "Lockie Ferguson",
+		"playerRatting": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c154574/adam-milne.jpg",
+		"playerName": "Adam Milne",
+		"playerRatting": "BOWLER"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170755/ish-sodhi.jpg",
+		"playerName": "Matt Henry",
+		"playerRatting": "Bowler"
+	}
+]
