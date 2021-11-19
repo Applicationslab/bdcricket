@@ -1,86 +1,81 @@
 [{
-		"playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBd0dD8pQpCcXFIUiAJa8ZNoXfYLMt8wM2huy9xSvbmeTq_eqPmRHLsveaa3xqZhapR4&usqp=CAU",
+		"playerImage": "http://cricket.upcomingwiki.com/public/images/gallery/12552.png",
 		"playerName": "Mohammad Naim",
-		"playerRatting": "BATSMEN"
+		"playerRatting": "Batsman"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170900/soumya-sarkar.jpg",
-		"playerName": "Soumya Sarkar",
-		"playerRatting": "BATSMEN"
+		"playerImage": "https://sportzcraazy.com/wp-content/uploads/2019/10/Nazmul-Hossain-Shanto.jpg",
+		"playerName": "Najmul Shanto",
+		"playerRatting": "Batsman"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
-		"playerName": "Shakib Al Hasan",
-		"playerRatting": "All-Rounder"
+		"playerImage": "https://blogger.googleusercontent.com/img/a/AVvXsEg-eIviS0WJHmkZPavhqMnBxn90mLPzWqBiAmiaQ_G7xZEPD7eyeXHzWCIfJeR8vrhvA7Nq4khNly_6phdh1VyorJBv5nSfqQhIh7aMcknaOV9tS9f15CHdHe3TiFYTBE9eLrGxGnnQeiGKWBpu-5NptQbs6_Jk2kgtJ9JLMgKrUR2qVgCwHDarpKF2",
+		"playerName": "Saif Hassan",
+		"playerRatting": "Batsman"
 	},
 	{
-		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170918/mohammad-mithun.jpg",
-		"playerName": "Mohammad Mithun",
-		"playerRatting": "WK-Batsman"
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/179500/179555.jpg",
+		"playerName": "Yasir Ali",
+		"playerRatting": "Batsman"
 	},
 	{
-		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170909/mosaddek-hossain.jpg",
-		"playerName": "Mosaddek Hossain",
-		"playerRatting": "All-Rounder"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170905/mahmudullah.jpg",
+		"playerName": "Mahmudullah (C)",
+		"playerRatting": "Batting Allrounder"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
-		"playerName": "Mahmudullah",
-		"playerRatting": "All-Rounder"
-	},
-	{
-		"playerImage": "https://famousbirthdays.io/wp-content/uploads/2021/04/afif-hossain.jpg",
+		"playerImage": "https://blogger.googleusercontent.com/img/a/AVvXsEgOAUBGzeLGQ7Tt7fiz-ji8ldH6mw9Gn8Dh1KEb_CEXqrHYvsFpUd26vr7wLnS3kwfyqXBZJcK8Rlk-knDu_o2ssgOAisZxHfXxf3ooQtmJdG0GLmrDlyXoa-It9zRoawjlo3YDf490hsjoefB9jZSQVamAuHnuQcLSZcbnApCBQKDm7EBuTYBieiX0",
 		"playerName": "Afif Hossain",
-		"playerRatting": "All-Rounder"
+		"playerRatting": "Batting Allrounder"
 	},
 	{
 		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/286600/286686.1.jpg",
 		"playerName": "Mahedi Hasan",
-		"playerRatting": "All-Rounder"
+		"playerRatting": "Batting Allrounder"
 	},
 	{
-		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170907/mohammad-saifuddin.jpg",
-		"playerName": "Mohammad Saifuddin",
-		"playerRatting": "All-Rounder"
+		"playerImage": "https://upload.wikimedia.org/wikipedia/commons/3/32/Shamim_cricketer.jpg",
+		"playerName": "Shamim Hossain",
+		"playerRatting": "Batting Allrounder"
 	},
 	{
-		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156212/taskin-ahmed.jpg",
-		"playerName": "Taskin Ahmed",
-		"playerRatting": "Bowler"
+		"playerImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh9m2OHwBJk1KmqxASSsK8hgXW5Ge1qpkcdJYUN0sQrY7so1V59Gw1emIi437FgF4fhEKozvpwvAQ90Mt4Kkd09pn9qF8LMPk6HrMImTVquuUNtqNmFtYgzUbwPcPx0towp8i6o3F2-SlEtgdusS0UhwcS0ARdtK-pIQT2SJFL_prcwGAsBmKD0th7b",
+		"playerName": "Aminul Islam",
+		"playerRatting": "Bowling Allrounder"
 	},
 	{
-		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/286900/286908.1.jpg",
-		"playerName": "Shoriful Islam",
-		"playerRatting": "Bowler"
-	},
-	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg",
-		"playerName": "Mustafizur Rahman",
-		"playerRatting": "Bowler"
-	},
-	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170922/rubel-hossain.jpg",
-		"playerName": "Rubel Hossain",
-		"playerRatting": "Bowler"
-	},
-	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c148279/taijul-islam.jpg",
-		"playerName": "Taijul Islam",
-		"playerRatting": "Bowler"
-	},
-	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c148277/nurul-hasan.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c148277/nurul-hasan.jpg",
 		"playerName": "Nurul Hasan",
 		"playerRatting": "WK-Batsman"
 	},
 	{
-		"playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX7bBor8YxOngNAuUSNtOyE-T06MXAuGPO5ovn3aeWSGLmg9cwcOeJ5oRKRyl9X7slqvc&usqp=CAU",
-		"playerName": "Shamim Hossain",
-		"playerRatting": "All-rounder"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/akbar-ali.jpg",
+		"playerName": "Akbar Ali",
+		"playerRatting": "WK-Batsman"
 	},
 	{
-		"playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFXlAm3EsFPEX_PQ616lYzWyjICJUG7dxihBg5h9pF4svLsYYyneNuNeG1aRqUQkMCfOU&usqp=CAU",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170925/mustafizur-rahman.jpg",
+		"playerName": "Mustafizur Rahman",
+		"playerRatting": "Bowler"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/286900/286908.1.jpg",
+		"playerName": "Shoriful Islam",
+		"playerRatting": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156212/taskin-ahmed.jpg",
+		"playerName": "Taskin Ahmed",
+		"playerRatting": "Bowler"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/148300/148317.1.jpg",
 		"playerName": "Nasum Ahmed",
-		"playerRatting": "ALL ROUNDER"
+		"playerRatting": "Bowler"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/283000/283052.1.jpg",
+		"playerName": "Shahidul Islam",
+		"playerRatting": "Bowler"
 	}
 ]
