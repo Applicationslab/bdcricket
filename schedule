@@ -1,21 +1,21 @@
 [{
-		"date": "Nov 26, 04:00 AM",
+		"date": "Dec 31, 10:00 PM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
 		"fastTeam": "BAN",
 		"gameStatus": "Live",
 		"gameType": "1st Test",
-		"gameURL": "https://www.google.com/search?q=ban+vs+pak&oq=ban+vs+pak&aqs=chrome.0.69i59l2j35i39j0i131i433i512l2j69i61l2j69i60.1858j0j4&sourceid=chrome&ie=UTF-8#sie=m;/g/11rxwl6lr_;5;/m/021q23;dt;fp;1;;",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1200px-Flag_of_Pakistan.svg.png",
-		"secondTeam": "PAK"
+		"gameURL": "https://www.google.com/search?q=ban+vs+nz+2022&oq=ban+vs+nz+2022&aqs=chrome..69i57j35i39j0i512l8.5422j0j9&sourceid=chrome&ie=UTF-8#sie=m;/g/11pcvfdn5r;5;/m/021q23;dt;fp;1;;",
+		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/320px-Flag_of_New_Zealand.svg.png",
+		"secondTeam": "NZ"
 	},
 	{
-		"date": "Dec 4, 04:00 AM",
+		"date": "Jan 08, 10:00 PM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
 		"fastTeam": "BAN",
 		"gameStatus": "LIVE",
 		"gameType": "2nd Test",
-		"gameURL": "https://www.google.com/search?q=ban+vs+pak&oq=ban+vs+pak&aqs=chrome.0.69i59l2j35i39j0i131i433i512l2j69i61l2j69i60.1858j0j4&sourceid=chrome&ie=UTF-8#sie=m;/g/11p16kcm86;5;/m/021q23;dt;fp;1;;",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1200px-Flag_of_Pakistan.svg.png",
-		"secondTeam": "PAK"
+		"gameURL": "https://www.google.com/search?q=ban+vs+nz+2022&oq=ban+vs+nz+2022&aqs=chrome..69i57j35i39j0i512l8.5422j0j9&sourceid=chrome&ie=UTF-8#sie=m;/g/11pcvf5djm;5;/m/021q23;dt;fp;1;;",
+		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/320px-Flag_of_New_Zealand.svg.png",
+		"secondTeam": "NZ"
 	}
 ]
