@@ -1,5 +1,5 @@
 [{
-		"date": "Live",
+		"date": "Mar 18, 2:00 PM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
 		"fastTeam": "BAN",
 		"gameStatus": "LIVE",
@@ -9,7 +9,7 @@
 		"secondTeam": "SA"
 	},
 	{
-		"date": "Live",
+		"date": "Mar 20, 2:00 PM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
 		"fastTeam": "BAN",
 		"gameStatus": "LIVE",
@@ -19,7 +19,7 @@
 		"secondTeam": "SA"
 	},
 	{
-		"date": "Live",
+		"date": "Mar 23, 2:00 PM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
 		"fastTeam": "BAN",
 		"gameStatus": "LIVE",
@@ -29,7 +29,7 @@
 		"secondTeam": "SA"
 	},
 	{
-		"date": "Live",
+		"date": "Mar 30, 2:00 PM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
 		"fastTeam": "BAN",
 		"gameStatus": "LIVE",
@@ -38,7 +38,7 @@
 		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png",
 		"secondTeam": "SA"
 	}, {
-		"date": "Live",
+		"date": "Apr 7, 2:00 PM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
 		"fastTeam": "BAN",
 		"gameStatus": "LIVE",
