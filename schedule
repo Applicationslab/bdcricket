@@ -1,5 +1,5 @@
 [{
-		"date": "Jan 19, 8:30 PM",
+		"date": "Jan 19, 8:30 AM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
 		"fastTeam": "IND",
 		"gameStatus": "LIVE",
@@ -8,7 +8,7 @@
 		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png",
 		"secondTeam": "SA"
 	}, {
-		"date": "Jan 21, 8:30 PM",
+		"date": "Jan 21, 8:30 AM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
 		"fastTeam": "IND",
 		"gameStatus": "LIVE",
@@ -17,7 +17,7 @@
 		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png",
 		"secondTeam": "SA"
 	}, {
-		"date": "Jan 23, 8:30 PM",
+		"date": "Jan 23, 8:30 AM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
 		"fastTeam": "IND",
 		"gameStatus": "LIVE",
