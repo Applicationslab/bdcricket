@@ -1,51 +1,50 @@
-[
+[{
+		"date": "Live",
+		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
+		"fastTeam": "BAN",
+		"gameStatus": "LIVE",
+		"gameType": "1st ODI",
+		"gameURL": "https://www.google.com/search?q=bangladesh+next+series&oq=bangladesh+next+ser&aqs=chrome.0.0i512j69i57j0i512l8.7847j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11rxsrhsc8;5;/m/021q23;dt;fp;1;;",
+		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png",
+		"secondTeam": "SA"
+	},
 	{
 		"date": "Live",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
 		"fastTeam": "BAN",
 		"gameStatus": "LIVE",
-		"gameType": "2nd Test",
-		"gameURL": "https://www.google.com/search?q=ban+vs+nz+2022&oq=ban+vs+nz+2022&aqs=chrome..69i57j35i39j0i512l8.5422j0j9&sourceid=chrome&ie=UTF-8#sie=m;/g/11pcvf5djm;5;/m/021q23;dt;fp;1;;",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/320px-Flag_of_New_Zealand.svg.png",
-		"secondTeam": "NZ"
-	},
-	{
-		"date": "Jan 11, 08:30 AM",
-		"fastImage": "https://cdn.britannica.com/27/4227-004-32423B42/Flag-South-Africa.jpg",
-		"fastTeam": "SA",
-		"gameStatus": "Live",
-		"gameType": "Test 3",
-		"gameURL": "https://www.google.com/search?q=cricket+live+score&oq=cricket+live+&aqs=chrome.3.69i57j35i39l2j0i433i512l2j69i60l3.7934j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11p13m7hnc;5;/m/021q23;dt;fp;1;;",
-		"secondImage": "https://cdn.britannica.com/97/1597-004-05816F4E/Flag-India.jpg",
-		"secondTeam": "IND"
-	},
-	{
-		"date": "Jan 11, 2:30 PM",
-		"fastImage": "https://upload.wikimedia.org/wikipedia/en/6/65/West_indies_cricket_board_flag.png",
-		"fastTeam": "WI",
-		"gameStatus": "Live",
 		"gameType": "2nd ODI",
-		"gameURL": "https://www.google.com/search?q=cricket+live+score&oq=cricket+live+score&aqs=chrome.0.69i59j35i39j0i433i512l2j0i512j69i60l3.2525j1j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11pf2qhj4_;5;/m/021q23;dt;fp;1;;",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/1/13/Ireland_flag_300.png",
-		"secondTeam": "IRE"
+		"gameURL": "https://www.google.com/search?q=bangladesh+next+series&oq=bangladesh+next+ser&aqs=chrome.0.0i512j69i57j0i512l8.7847j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11rxsqvzm_;5;/m/021q23;dt;fp;1;;",
+		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png",
+		"secondTeam": "SA"
 	},
 	{
-		"date": "Jan 14, 04:00 AM",
-		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1200px-Flag_of_Australia_%28converted%29.svg.png",
-		"fastTeam": "AUS",
-		"gameStatus": "Live",
-		"gameType": "5th Test",
-		"gameURL": "https://www.google.com/search?q=cricket+live+score&oq=cricket+live+score&aqs=chrome.0.69i59j35i39j0i433i512l2j0i512j69i60l3.2525j1j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11q1q17s19;5;/m/021q23;dt;fp;1;;",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png",
-		"secondTeam": "ENG"
-	}, {
-		"date": "Jan 14, 02:30 PM",
-		"fastImage": "https://upload.wikimedia.org/wikipedia/en/6/65/West_indies_cricket_board_flag.png",
-		"fastTeam": "WI",
-		"gameStatus": "Live",
+		"date": "Live",
+		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
+		"fastTeam": "BAN",
+		"gameStatus": "LIVE",
 		"gameType": "3rd ODI",
-		"gameURL": "https://www.google.com/search?q=cricket+live+score&oq=cricket+live+score&aqs=chrome.0.69i59j35i39j0i433i512l2j0i512j69i60l3.2525j1j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11rk5gh5y7;5;/m/021q23;dt;fp;1;;",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/1/13/Ireland_flag_300.png",
-		"secondTeam": "IRE"
+		"gameURL": "https://www.google.com/search?q=bangladesh+next+series&oq=bangladesh+next+ser&aqs=chrome.0.0i512j69i57j0i512l8.7847j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11qh69sss7;5;/m/021q23;dt;fp;1;;",
+		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png",
+		"secondTeam": "SA"
+	},
+	{
+		"date": "Live",
+		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
+		"fastTeam": "BAN",
+		"gameStatus": "LIVE",
+		"gameType": "1st Test",
+		"gameURL": "https://www.google.com/search?q=bangladesh+next+series&oq=bangladesh+next+ser&aqs=chrome.0.0i512j69i57j0i512l8.7847j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11p13rq95_;5;/m/021q23;dt;fp;1;;",
+		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png",
+		"secondTeam": "SA"
+	}, {
+		"date": "Live",
+		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
+		"fastTeam": "BAN",
+		"gameStatus": "LIVE",
+		"gameType": "2nd Test",
+		"gameURL": "https://www.google.com/search?q=bangladesh+next+series&oq=bangladesh+next+ser&aqs=chrome.0.0i512j69i57j0i512l8.7847j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11rxsr3bmj;5;/m/021q23;dt;fp;1;;",
+		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png",
+		"secondTeam": "SA"
 	}
 ]
