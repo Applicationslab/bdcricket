@@ -1,11 +1,11 @@
 [{
-		"date": "Live",
-		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
-		"fastTeam": "BAN",
+		"date": "Jan 19, 8:30 PM",
+		"fastImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
+		"fastTeam": "IND",
 		"gameStatus": "LIVE",
-		"gameType": "2nd Test",
-		"gameURL": "https://www.google.com/search?q=ban+vs+nz+2022&oq=ban+vs+nz+2022&aqs=chrome..69i57j35i39j0i512l8.5422j0j9&sourceid=chrome&ie=UTF-8#sie=m;/g/11pcvf5djm;5;/m/021q23;dt;fp;1;;",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/320px-Flag_of_New_Zealand.svg.png",
-		"secondTeam": "NZ"
+		"gameType": "1st ODI",
+		"gameURL": "https://www.google.com/search?q=ind+vs+sa&oq=ind+vs+&aqs=chrome.0.35i39j69i57j69i59l2j35i39j69i61l2j69i60.2509j0j9&sourceid=chrome&ie=UTF-8#sie=m;/g/11rxspb_p0;5;/m/021q23;dt;fp;1;;",
+		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png",
+		"secondTeam": "SA"
 	}
 ]
