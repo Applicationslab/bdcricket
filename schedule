@@ -1,23 +1,5 @@
 [{
-		"date": "Jan 21, 8:30 AM",
-		"fastImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
-		"fastTeam": "IND",
-		"gameStatus": "LIVE",
-		"gameType": "2nd ODI",
-		"gameURL": "https://www.google.com/search?q=ind+vs+sa&oq=ind+vs+&aqs=chrome.0.35i39j69i57j69i59l2j35i39j69i61l2j69i60.2509j0j9&sourceid=chrome&ie=UTF-8#sie=m;/g/11p13p9t1y;5;/m/021q23;dt;fp;1;;",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png",
-		"secondTeam": "SA"
-	}, {
-		"date": "Jan 23, 8:30 AM",
-		"fastImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
-		"fastTeam": "IND",
-		"gameStatus": "LIVE",
-		"gameType": "3rd ODI",
-		"gameURL": "https://www.google.com/search?q=ind+vs+sa&oq=ind+vs+&aqs=chrome.0.35i39j69i57j69i59l2j35i39j69i61l2j69i60.2509j0j9&sourceid=chrome&ie=UTF-8#sie=m;/g/11p13pjyxh;5;/m/021q23;dt;fp;1;;",
-		"secondImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png",
-		"secondTeam": "SA"
-	}, {
-		"date": "Feb 25, 8:00 AM",
+		"date": "Feb 23, 5:00 AM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
 		"fastTeam": "BAN",
 		"gameStatus": "LIVE",
@@ -27,7 +9,7 @@
 		"secondTeam": "AFG"
 	},
 	{
-		"date": "Feb 27, 8:00 AM",
+		"date": "Feb 25, 5:00 AM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
 		"fastTeam": "BAN",
 		"gameStatus": "LIVE",
@@ -37,7 +19,7 @@
 		"secondTeam": "AFG"
 	},
 	{
-		"date": "Mar 1, 8:00 AM",
+		"date": "Feb 27, 5:00 AM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
 		"fastTeam": "BAN",
 		"gameStatus": "LIVE",
