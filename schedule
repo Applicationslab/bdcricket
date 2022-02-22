@@ -1,5 +1,5 @@
 [{
-		"date": "Feb 23, 5:00 AM",
+		"date": "Feb 23, 11:00 AM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
 		"fastTeam": "BAN",
 		"gameStatus": "LIVE",
@@ -9,7 +9,7 @@
 		"secondTeam": "AFG"
 	},
 	{
-		"date": "Feb 25, 5:00 AM",
+		"date": "Feb 25, 11:00 AM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
 		"fastTeam": "BAN",
 		"gameStatus": "LIVE",
@@ -19,7 +19,7 @@
 		"secondTeam": "AFG"
 	},
 	{
-		"date": "Feb 27, 5:00 AM",
+		"date": "Feb 27, 11:00 AM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
 		"fastTeam": "BAN",
 		"gameStatus": "LIVE",
