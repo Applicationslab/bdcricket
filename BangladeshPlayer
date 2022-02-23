@@ -1,32 +1,37 @@
 [{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c148275/mominul-haque.jpg",
-		"playerName": "Mominul Haque (C)",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+		"playerName": "Tamim Iqbal (Captain)",
 		"playerRatting": "Batsman"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c165699/shadman-islam.jpg",
-		"playerName": "Shadman Islam",
-		"playerRatting": "Batsman"
-	},
-	{
-		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/323100/323174.square.png",
-		"playerName": "Saif Hassan",
-		"playerRatting": "Batsman"
-	},
-	{
-		"playerImage": "http://s3.amazonaws.com/batsman/Nazmul%20Hossain%20Shanto_a3529f90-231c-41cf-b220-0323826e9ac0.JPG",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/najmul-hossain-shanto.jpg",
 		"playerName": "Najmul Hossain Shanto",
 		"playerRatting": "Batsman"
 	},
 	{
-		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100_2x/lsci/db/PICTURES/CMS/179500/179555.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/yasir-ali.jpg",
 		"playerName": "Yasir Ali",
 		"playerRatting": "Batsman"
 	},
 	{
-		"playerImage": "http://s3.amazonaws.com/batsman/Mahmudul%20Hasan%20Joy_d8704dd1-0ecd-4fad-997a-315f894117e8.JPG",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/mahmudul-hasan-joy.jpg",
 		"playerName": "Mahmudul Hasan Joy",
 		"playerRatting": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg",
+		"playerName": "Shakib Al Hasan",
+		"playerRatting": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170905/mahmudullah.jpg",
+		"playerName": "Mahmudullah",
+		"playerRatting": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/afif-hossain.jpg",
+		"playerName": "Afif Hossain",
+		"playerRatting": "Batting Allrounder"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c148289/mehidy-hasan.jpg",
@@ -34,43 +39,38 @@
 		"playerRatting": "Bowling Allrounder"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg",
-		"playerName": "Mushfiqur Rahim",
-		"playerRatting": "WK-Batsman"
-	},
-	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170914/liton-das.jpg",
 		"playerName": "Liton Das",
 		"playerRatting": "WK-Batsman"
 	},
 	{
-		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148277/nurul-hasan.jpg",
-		"playerName": "Nurul Hasan",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg",
+		"playerName": "Mushfiqur Rahim (Keeper)",
 		"playerRatting": "WK-Batsman"
 	},
 	{
-		"playerImage": "https://cdn.wisden.com/wp-content/uploads/2018/05/GettyImages-902064996-e1527263746900.jpg",
-		"playerName": "Nayeem Hasan",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170925/mustafizur-rahman.jpg",
+		"playerName": "Mustafizur Rahman",
 		"playerRatting": "Bowler"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c148279/taijul-islam.jpg",
-		"playerName": "Taijul Islam",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156212/taskin-ahmed.jpg",
+		"playerName": "Taskin Ahmed",
 		"playerRatting": "Bowler"
 	},
 	{
-		"playerImage": "https://www.sportsnoticias.com/wp-content/uploads/2020/09/ebadot-hossain.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226301/shoriful-islam.jpg",
+		"playerName": "Shoriful Islam",
+		"playerRatting": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/ebadot-hossain.jpg",
 		"playerName": "Ebadot Hossain",
 		"playerRatting": "Bowler"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170927/abu-jayed.jpg",
-		"playerName": "Abu Jayed",
-		"playerRatting": "Bowler"
-	},
-	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/rejaur-rahman-raja.jpg",
-		"playerName": "Rejaur Rahman Raja",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/nasum-ahmed.jpg",
+		"playerName": "Nasum Ahmed",
 		"playerRatting": "Bowler"
 	}
 ]
