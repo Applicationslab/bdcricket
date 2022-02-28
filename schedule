@@ -1,23 +1,4 @@
-[{
-		"date": "Feb 23, 11:00 AM",
-		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
-		"fastTeam": "BAN",
-		"gameStatus": "LIVE",
-		"gameType": "1st ODI",
-		"gameURL": "https://www.google.com/search?q=ban+vs+afg&oq=ban+vs+afg&aqs=chrome..69i57j69i59l4j69i60j69i61j69i60.1958j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11pysjf2pb;5;/m/021q23;dt;fp;1;;",
-		"secondImage": "https://cdn.britannica.com/40/5340-004-B25ED5CF/Flag-Afghanistan.jpg",
-		"secondTeam": "AFG"
-	},
-	{
-		"date": "Feb 25, 11:00 AM",
-		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
-		"fastTeam": "BAN",
-		"gameStatus": "LIVE",
-		"gameType": "2nd ODI",
-		"gameURL": "https://www.google.com/search?q=ban+vs+afg&oq=ban+vs+afg&aqs=chrome..69i57j69i59l4j69i60j69i61j69i60.1958j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11pysh_7h9;5;/m/021q23;dt;fp;1;;",
-		"secondImage": "https://cdn.britannica.com/40/5340-004-B25ED5CF/Flag-Afghanistan.jpg",
-		"secondTeam": "AFG"
-	},
+[
 	{
 		"date": "Feb 27, 11:00 AM",
 		"fastImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
