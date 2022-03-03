@@ -1,11 +1,6 @@
 [{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
-		"playerName": "Tamim Iqbal (Captain)",
-		"playerRatting": "Batsman"
-	},
-	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/najmul-hossain-shanto.jpg",
-		"playerName": "Najmul Hossain Shanto",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/munim-shahriar.jpg",
+		"playerName": "Munim Shahriar",
 		"playerRatting": "Batsman"
 	},
 	{
@@ -14,29 +9,29 @@
 		"playerRatting": "Batsman"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/mahmudul-hasan-joy.jpg",
-		"playerName": "Mahmudul Hasan Joy",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/mohammad-naim.jpg",
+		"playerName": "Mohammad Naim",
 		"playerRatting": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170905/mahmudullah.jpg",
+		"playerName": "Mahmudullah (Captain)",
+		"playerRatting": "Allrounder"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg",
 		"playerName": "Shakib Al Hasan",
-		"playerRatting": "Batting Allrounder"
-	},
-	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170905/mahmudullah.jpg",
-		"playerName": "Mahmudullah",
-		"playerRatting": "Batting Allrounder"
+		"playerRatting": "Allrounder"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/afif-hossain.jpg",
 		"playerName": "Afif Hossain",
-		"playerRatting": "Batting Allrounder"
+		"playerRatting": "Allrounder"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c148289/mehidy-hasan.jpg",
-		"playerName": "Mehidy Hasan",
-		"playerRatting": "Bowling Allrounder"
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/mahedi-hasan.jpg",
+		"playerName": "Mahedi Hasan",
+		"playerRatting": "Allrounder"
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170914/liton-das.jpg",
@@ -45,7 +40,7 @@
 	},
 	{
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg",
-		"playerName": "Mushfiqur Rahim (Keeper)",
+		"playerName": "Mushfiqur Rahim",
 		"playerRatting": "WK-Batsman"
 	},
 	{
@@ -64,13 +59,13 @@
 		"playerRatting": "Bowler"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/ebadot-hossain.jpg",
-		"playerName": "Ebadot Hossain",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/nasum-ahmed.jpg",
+		"playerName": "Nasum Ahmed",
 		"playerRatting": "Bowler"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/nasum-ahmed.jpg",
-		"playerName": "Nasum Ahmed",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/shohidul-islam.jpg",
+		"playerName": "Shohidul Islam",
 		"playerRatting": "Bowler"
 	}
 ]
